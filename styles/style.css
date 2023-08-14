@@ -47,6 +47,10 @@ main img {
     width: 100%;
 }
 
+.actividades {
+    margin-bottom: 2rem;
+}
+
 .contacto-container {
     display: flex;
     align-items: center;
@@ -55,6 +59,8 @@ main img {
 .contacto {
     flex: 1;
     padding: 20px;
+    background-color: #add7e6;
+    margin-bottom: 1rem;
 }
 
 .mapa {
